@@ -1,0 +1,21 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+        "module": "commonjs",
+        "lib": ["es6"],
+        "target": "ESNext",
+        "jsx": "react",
+        "allowSyntheticDefaultImports": true,
+        "checkJs": true,
+        "allowJs": true,
+        "noEmit": true,
+        "resolveJsonModule": true
+    },
+    "exclude": [
+        "node_modules",
+        "bin",
+        "coverage",
+        "doc",
+        "docs"
+    ]
+}
